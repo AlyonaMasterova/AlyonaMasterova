@@ -76,7 +76,7 @@
 
 
 ## 🎒 Образование
-
+[<img src="/Certificate.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/AlyonaMasterova/AlyonaMasterova/refs/heads/main/Certificate.png)
 
 <br>
 <br>
