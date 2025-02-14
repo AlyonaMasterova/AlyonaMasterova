@@ -77,7 +77,7 @@
 
 ## 🎒 Образование
 [<img src="/Certificate.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/AlyonaMasterova/AlyonaMasterova/refs/heads/main/Certificate.png)
-[<img src="/Recommendation_letter.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/AlyonaMasterova/AlyonaMasterova/refs/heads/main/Recommendation%20letter.jpg)
+[<img src="/Recommendation_letter.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/AlyonaMasterova/AlyonaMasterova/refs/heads/main/Recommendation_letter.jpg)
 [<img src="/alena_masterova-travel_guide_retest-en.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/AlyonaMasterova/AlyonaMasterova/refs/heads/main/alena_masterova-travel_guide_retest-en.png)
 <br>
 <br>
